@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet">
+    <link href="responsive.css" rel="stylesheet">
+    <title>Starbucks</title>
+</head>
+
+<body>
+    <div class="circulo"></div>
+    <img src="./assets/logo.png" class="logo">
+    <header>
+        <main>
+            <h1>Não é só café,
+                <br>
+                é <span class="span">Starbucks</span>
+            </h1>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Quisquam suscipit quaerat nesciunt ut, autem temporibus
+                perspiciatis est architecto quasi dolores adipisci!
+                Excepturi quibusdam nobis eos quis voluptas praesentium aliquam repudiandae.
+            </p>
+
+            <button class="saiba-mais">Saiba Mais</button>
+        </main>
+
+        <div class="caixa-imagem">
+            <img src="./assets/img1.png" class="starbucks">
+        </div>
+
+    </header>
+    <nav>
+        <img src="./assets/img-pequena1.png" class="botao-menu" onclick="trocaImagem('./assets/img1.png'); trocaCor('#017143')">
+        <img src="./assets/img-pequena2.png" class="botao-menu" onclick="trocaImagem('./assets/img2.png'); trocaCor('#eb7495')">
+        <img src="./assets/img-pequena3.png" class="botao-menu" onclick="trocaImagem('./assets/img3.png'); trocaCor('#d752b1')">
+    </nav>
+
+</body>
+<script src="./scripts.js"></script>
+
+</html>

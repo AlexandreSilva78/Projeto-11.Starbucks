@@ -1,0 +1,141 @@
+@media screen and (max-width: 767px) {
+
+    main {
+        width: 490px;
+        margin-bottom: 100px;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    span {
+        font-size: 40px;
+    }
+
+    .circulo {
+        clip-path: circle(365px at right 526px);
+    }
+
+    nav {
+        margin-top: -130px;
+        justify-content: left;
+    }
+}
+
+@media screen and (min-width: 447px) and (max-width: 766px) {
+    h1 {
+        text-align: center;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .caixa-imagem {
+        width: 275px;
+        margin-top: 70px;
+    }
+
+    .starbucks {
+        width: 195px;
+    }
+
+    nav {
+        margin-top: -100px;
+    }
+}
+
+@media screen and (min-width: 362px) and (max-width: 446px) {
+
+    body {
+        padding: 10px 20px 10px 10px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    span {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    .circulo {
+        clip-path: circle(215px at right 587px);
+        top: -145px;
+    }
+
+    .botao-menu {
+        margin: 15px;
+    }
+
+    nav {
+        margin-top: -123px;
+    }
+
+    .starbucks {
+        width: 110px;
+    }
+
+    .caixa-imagem {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (min-width: 220px) and (max-width: 361px) {
+
+    body {
+        padding: 10px;
+    }
+
+    .logo {
+        width: 80px;
+        margin-left: 100px;
+    }
+
+    main {
+        width: 200px;
+        margin-bottom: 310px;
+        margin-left: 60px;
+    }
+
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    p {
+        display: none;
+    }
+
+    span {
+        font-size: 30px;
+    }
+
+    .circulo {
+        clip-path: circle(210px at right 640px);
+        top: -135px;
+    }
+
+    .starbucks {
+        width: 130px;
+        margin-left: -65px;
+    }
+
+    .caixa-imagem {
+        margin-top: 10px;
+    }
+
+    nav {
+        margin-top: -120px;
+        justify-content: left;
+    }
+}
