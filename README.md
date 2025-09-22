@@ -67,4 +67,4 @@ Abra o arquivo index.html no navegador de sua preferência.
 🔗 Referência
 
 O projeto foi inspirado no repositório:
-👉 Projeto-11.Starbucks
+👉 Projeto-11.Starbucks[https://alexandresilva78.github.io/Projeto-11.Starbucks/]
