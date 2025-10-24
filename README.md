@@ -1,70 +1,85 @@
-☕ Clone do Site Starbucks
+# Projeto-11.Starbucks  
+Clone responsivo do site da Starbucks ☕
 
-Este projeto é um clone do site da Starbucks, desenvolvido para fins de estudo e prática de HTML, CSS, CSS Responsivo e JavaScript.
-A ideia principal foi treinar conceitos de layout moderno, responsividade e interatividade aplicados em um projeto realista.
+Este repositório apresenta uma versão **clone** do site da Starbucks criada com fins de estudo e prática de front-end: HTML5, CSS3, design responsivo e JavaScript.  
+O objetivo principal é reconstruir uma experiência de site moderno, adaptável a diferentes dispositivos (desktop, tablet, mobile) e com efeitos interativos simples.
 
-<img src="https://github.com/AlexandreSilva78/Projeto-11.Starbucks/blob/main/assets/img/projeto-starbucks-notebook-preto.png">
+---
 
-🚀 Tecnologias Utilizadas
+## 🎯 Visão Geral  
+- Replicação da estrutura visual e layout de um site corporativo (inspirado no site da Starbucks)  
+- Ênfase em boas práticas de semântica HTML, estilos CSS bem organizados e responsividade via media queries  
+- JavaScript para pequenas interações e para reforçar o fluxo de trabalho típico de front-end  
+- Projeto ideal para quem deseja praticar e demonstrar habilidades de desenvolvimento web moderno
 
-HTML5 → Estrutura do projeto
+---
 
-CSS3 → Estilização e layout
+## 🖼 Preview  
+Veja abaixo alguns exemplos visuais do layout em diferentes modelos/luzes:
 
-CSS Responsivo → Adaptação para diferentes telas (desktop, tablet e mobile)
+![Notebook branco – Projeto Starbucks](assets/img/projeto-starbucks-notebook-branco.png)  
+![Notebook preto – Projeto Starbucks](assets/img/projeto-starbucks-notebook-preto.png)  
+![Notebook rose gold – Projeto Starbucks](assets/img/projeto-starbucks-notebook-rose-gold.png)  
 
-JavaScript → Interatividade e manipulação de elementos
+Ou acesse a versão hospedada: [Projeto-11.Starbucks](https://alexandresilva78.github.io/Projeto-11.Starbucks/)
 
-📸 Preview do Projeto
-<img src="https://github.com/AlexandreSilva78/Projeto-11.Starbucks/blob/main/assets/img/projeto-starbucks-notebook-rose-gold.png">
+---
 
-Aqui você pode adicionar um print ou GIF mostrando o resultado final do projeto.
+## 🛠 Tecnologias Utilizadas  
+- **HTML5**: Estrutura semântica do site  
+- **CSS3**: Estilização, layout, animações simples  
+- **Responsividade (Media Queries)**: Adaptação para desktop, tablet e mobile  
+- **JavaScript**: Manipulação de DOM, interatividade leve  
 
-📂 Estrutura de Pastas
+---
+
+## 📁 Estrutura do Projeto  
 Projeto-Starbucks/
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
+├── styles.css
+├── responsive.css
+├── scripts.js
 └── assets/
-    ├── img/
-    └── icons/
+├── img/
+└── icons/
 
-📱 Responsividade
+yaml
+Copiar código
+*Obs.: Você encontrará também uma pasta `assets` contendo imagens, ícones e demais recursos.*
 
-O projeto foi desenvolvido com design responsivo, garantindo boa experiência em:
+---
 
-✅ Computadores (desktop e notebook)
+## 🚀 Como usar  
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/AlexandreSilva78/Projeto-11.Starbucks.git
 
-<img src="https://github.com/AlexandreSilva78/Projeto-11.Starbucks/blob/main/assets/img/projeto-starbucks-notebook-branco.png">
+   ---
+   
+🎓 Objetivo de Aprendizagem
 
-✅ Tablets
+Aplicar estruturação semântica com HTML
 
-✅ Smartphones
+Criar layouts modernos e limpos com CSS
 
-🎯 Objetivo
+Praticar design responsivo para diversos dispositivos
 
-Este projeto foi criado com objetivo de praticar conceitos fundamentais de desenvolvimento front-end:
+Inserir interatividade básica com JavaScript
 
-Estruturação semântica com HTML
+Aumentar o portfólio com um projeto completo de front-end
 
-Criação de layouts modernos com CSS
+📚 Referência
 
-Aplicação de responsividade (Media Queries)
+Projeto inspirado por: Versão hospedada no GitHub Pages
 
-Implementação de interações simples com JavaScript
+🤝 Contribuições
 
-📌 Como Usar
+Este é um projeto pessoal para prática, portanto, não há processo formal de contribuição. No entanto, sinta-se à vontade para forkar, ajustar ou usar como base para seus próprios estudos.
+Se desejar, você pode entrar em contato para sugerir melhorias ou deixar feedback via “Issues”.
 
-Clone este repositório:
+📄 Licença
 
-git clone [https://github.com/AlexandreSilva78/Projeto-11.Starbucks]
+Este repositório está disponibilizado para uso pessoal e educacional. Sinta-se livre para utilizá-lo como base, porém, melhorias, reuso ou publicação comercial devem respeitar os direitos de propriedade do design original da Starbucks.
 
-
-Abra o arquivo index.html no navegador de sua preferência.
-
-🔗 Referência
-
-O projeto foi inspirado no repositório:
-👉 Projeto-11.Starbucks[https://alexandresilva78.github.io/Projeto-11.Starbucks/]
+Obrigado pela visita!
+   
