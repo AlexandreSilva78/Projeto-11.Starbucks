@@ -3,6 +3,14 @@ Clone responsivo do site da Starbucks ☕
 
 Este repositório apresenta uma versão **clone** do site da Starbucks criada com fins de estudo e prática de front-end: HTML5, CSS3, design responsivo e JavaScript.  
 O objetivo principal é reconstruir uma experiência de site moderno, adaptável a diferentes dispositivos (desktop, tablet, mobile) e com efeitos interativos simples.
+---
+
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
+[![Responsivo](https://img.shields.io/badge/Design-Responsivo-blueviolet)]()
+[![Deploy-GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-000?logo=github&logoColor=white)](https://alexandresilva78.github.io/Projeto-11.Starbucks/)
 
 ---
 
