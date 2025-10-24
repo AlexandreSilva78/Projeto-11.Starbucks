@@ -18,7 +18,9 @@ O objetivo principal é reconstruir uma experiência de site moderno, adaptável
 Veja abaixo alguns exemplos visuais do layout em diferentes modelos/luzes:
 
 ![Notebook branco – Projeto Starbucks](assets/img/projeto-starbucks-notebook-branco.png)  
+
 ![Notebook preto – Projeto Starbucks](assets/img/projeto-starbucks-notebook-preto.png)  
+
 ![Notebook rose gold – Projeto Starbucks](assets/img/projeto-starbucks-notebook-rose-gold.png)  
 
 Ou acesse a versão hospedada: [Projeto-11.Starbucks](https://alexandresilva78.github.io/Projeto-11.Starbucks/)
